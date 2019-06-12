@@ -1,0 +1,17 @@
+D:\code\Data\DataGeneratorTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\code\Data\DataGeneratorTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\code\Data\DataGeneratorTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\code\Data\DataGeneratorTest\bin\Debug\netcoreapp2.2\DataGeneratorTest.deps.json
+D:\code\Data\DataGeneratorTest\bin\Debug\netcoreapp2.2\DataGeneratorTest.runtimeconfig.json
+D:\code\Data\DataGeneratorTest\bin\Debug\netcoreapp2.2\DataGeneratorTest.runtimeconfig.dev.json
+D:\code\Data\DataGeneratorTest\bin\Debug\netcoreapp2.2\DataGeneratorTest.dll
+D:\code\Data\DataGeneratorTest\bin\Debug\netcoreapp2.2\DataGeneratorTest.pdb
+D:\code\Data\DataGeneratorTest\bin\Debug\netcoreapp2.2\DataGenerator.dll
+D:\code\Data\DataGeneratorTest\bin\Debug\netcoreapp2.2\DataGenerator.pdb
+D:\code\Data\DataGeneratorTest\obj\Debug\netcoreapp2.2\DataGeneratorTest.csprojAssemblyReference.cache
+D:\code\Data\DataGeneratorTest\obj\Debug\netcoreapp2.2\DataGeneratorTest.csproj.CoreCompileInputs.cache
+D:\code\Data\DataGeneratorTest\obj\Debug\netcoreapp2.2\DataGeneratorTest.AssemblyInfoInputs.cache
+D:\code\Data\DataGeneratorTest\obj\Debug\netcoreapp2.2\DataGeneratorTest.AssemblyInfo.cs
+D:\code\Data\DataGeneratorTest\obj\Debug\netcoreapp2.2\DataGeneratorTest.csproj.CopyComplete
+D:\code\Data\DataGeneratorTest\obj\Debug\netcoreapp2.2\DataGeneratorTest.dll
+D:\code\Data\DataGeneratorTest\obj\Debug\netcoreapp2.2\DataGeneratorTest.pdb

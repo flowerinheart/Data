@@ -1,0 +1,11 @@
+D:\code\Data\DataGenerator\bin\Debug\netcoreapp2.2\DataGenerator.deps.json
+D:\code\Data\DataGenerator\bin\Debug\netcoreapp2.2\DataGenerator.runtimeconfig.json
+D:\code\Data\DataGenerator\bin\Debug\netcoreapp2.2\DataGenerator.runtimeconfig.dev.json
+D:\code\Data\DataGenerator\bin\Debug\netcoreapp2.2\DataGenerator.dll
+D:\code\Data\DataGenerator\bin\Debug\netcoreapp2.2\DataGenerator.pdb
+D:\code\Data\DataGenerator\obj\Debug\netcoreapp2.2\DataGenerator.csprojAssemblyReference.cache
+D:\code\Data\DataGenerator\obj\Debug\netcoreapp2.2\DataGenerator.csproj.CoreCompileInputs.cache
+D:\code\Data\DataGenerator\obj\Debug\netcoreapp2.2\DataGenerator.AssemblyInfoInputs.cache
+D:\code\Data\DataGenerator\obj\Debug\netcoreapp2.2\DataGenerator.AssemblyInfo.cs
+D:\code\Data\DataGenerator\obj\Debug\netcoreapp2.2\DataGenerator.dll
+D:\code\Data\DataGenerator\obj\Debug\netcoreapp2.2\DataGenerator.pdb
